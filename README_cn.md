@@ -1,10 +1,4 @@
-[![🌟 GPT Prompts Hub 🌟](https://your-logo-url-here.png)](https://github.com/your-repository-link-here)
-
-*
-
-*[成为我们的赞助商，您的徽标将出现在这里和prompts.chat！](https://github.com/sponsors/your-username-here/sponsorships?sponsor=your-username-here&tier_id=your-tier-id-here)
-**
-
+[🌟 GPT Prompts Hub 🌟](https://github.com/your-repository-link-here)
 ---
 
 欢迎来到 "GPT Prompts Hub" 存储库！探索并分享高质量的 ChatGPT 提示词。培养创新性内容，提升对话体验，激发创造力。我们极力鼓励贡献独特的提示词。
@@ -47,11 +41,10 @@ ChatBox 等软件/插件使用，极大降低接口使用成本：
 
 > 该项目的详细信息可在 [GPT-API-Free GitHub](https://github.com/your-username/GPT-API-Free) 上查看。
 
-![GPT-API-Free Screenshot](https://your-screenshot-url-here.png)
 
 ---
 
-# A Prompts
+#  Prompts
 
 ## Custom instructions
 #### How would you like ChatGPT to respond?
@@ -68,7 +61,7 @@ help me explore and understand this topic more deeply.
 Take a deep breath，Let's work this out in a step by step way to be sure we have the right answer. If there's a perfect
 solution, I'll tip $200!
 ```
-<img src="img.png" alt="img" width="250">
+<img src="docs/images/img.png" alt="img" width="250">
 
 ## 让gpt回答的更简单
 
