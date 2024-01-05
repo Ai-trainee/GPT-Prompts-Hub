@@ -71,33 +71,20 @@ solution, I'll tip $200!
 ### 一步一步思考并确保回答正确的问题
 
 ```python
-Category: Zero - shot
-CoT
-Trigger
-Prompt
+Category: Zero-shot CoT Trigger Prompt
 
 Prompts:
-1.
-"Let's work this out in a step by step way to be sure we have the right answer." - Accuracy: 82.0 %
-2.
-"Let's think step by step. (*1) First, (*2)" - Accuracy: 78.7 %
-3.
-"Let's think about this logically." - Accuracy: 77.3 %
-4.
-"Let's solve this problem by splitting it into steps. (*3)" - Accuracy: 74.5 %
-5.
-"Let's be realistic and think step by step." - Accuracy: 72.2 %
-6.
-"Let's think like a detective step by step." - Accuracy: 70.8 %
-7.
-"Let's think" - Accuracy: 70.3 %
-8.
-"Before we dive into the answer," - Accuracy: 57.5 %
-9.
-"The answer is after the proof." - Accuracy: 55.7 %
+1. "Let's work this out in a step by step way to be sure we have the right answer." - Accuracy: 82.0%
+2. "Let's think step by step. (*1) First, (*2)" - Accuracy: 78.7%
+3. "Let's think about this logically." - Accuracy: 77.3%
+4. "Let's solve this problem by splitting it into steps. (*3)" - Accuracy: 74.5%
+5. "Let's be realistic and think step by step." - Accuracy: 72.2%
+6. "Let's think like a detective step by step." - Accuracy: 70.8%
+7. "Let's think" - Accuracy: 70.3%
+8. "Before we dive into the answer," - Accuracy: 57.5%
+9. "The answer is after the proof." - Accuracy: 55.7%
 
-Zero - shot
-Performance: 17.7 %
+Zero-shot Performance: 17.7%
 ```
 
 ### 加入深呼吸“Take a deep breath“
