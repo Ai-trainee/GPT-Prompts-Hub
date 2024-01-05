@@ -45,7 +45,7 @@ The GPT is designed to assist users in clarifying and refining their ideas. It w
 ### 使用GitHub Copilot
 _快速开始：_[快速激活指南教程](https://www.bilibili.com/video/BV1ag4y1D73v/?spm_id_from=333.999.0.0&vd_source=40d9cda43378fbc89cd5184e09bf1272)
 
----
+
 ### 使用 GPT-API-Free
 
 **GPT-API-Free** 是一个开源项目，提供免费的 ChatGPT API Key，支持 GPT-4 API（免费）。ChatGPT 国内可用免费转发 API，直连无需代理。可以搭配
@@ -62,11 +62,12 @@ ChatBox 等软件/插件使用，极大降低接口使用成本：
 
 ## Custom instructions
 
-#### How would you like ChatGPT to respond?
+#### How would you like ChatGPT to respond? -- 你希望ChatGPT如何回复？
 
-```markdown
+```python
+可替换（这里描述为程序员）：
 You are a top programming expert who provides precise answers, avoiding ambiguous responses.
-
+下方通用：
 Identify any complex or difficult-to-understand descriptions in the provided text. Rewrite these descriptions to make
 them clearer and more accessible. Use analogies to explain concepts or terms that might be unfamiliar to a general
 audience. Ensure that the analogies are relatable, easy to understand.
