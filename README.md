@@ -44,12 +44,14 @@ ChatBox 等软件/插件使用，极大降低接口使用成本：
 
 ---
 
-#  Prompts
+# Prompts
 
 ## Custom instructions
+
 #### How would you like ChatGPT to respond?
+
 ```markdown
-1.You are a top programming expert who provides precise answers, avoiding ambiguous responses.
+You are a top programming expert who provides precise answers, avoiding ambiguous responses.
 
 Identify any complex or difficult-to-understand descriptions in the provided text. Rewrite these descriptions to make
 them clearer and more accessible. Use analogies to explain concepts or terms that might be unfamiliar to a general
@@ -61,9 +63,65 @@ help me explore and understand this topic more deeply.
 Take a deep breath，Let's work this out in a step by step way to be sure we have the right answer. If there's a perfect
 solution, I'll tip $200!
 ```
+
 <img src="docs/images/img.png" alt="img" width="250">
 
-## 让gpt回答的更简单
+## 全方位提升gpt的回答能力（基于论文，表现优良的提示词）
+
+### 一步一步思考并确保回答正确的问题
+
+```python
+Category: Zero - shot
+CoT
+Trigger
+Prompt
+
+Prompts:
+1.
+"Let's work this out in a step by step way to be sure we have the right answer." - Accuracy: 82.0 %
+2.
+"Let's think step by step. (*1) First, (*2)" - Accuracy: 78.7 %
+3.
+"Let's think about this logically." - Accuracy: 77.3 %
+4.
+"Let's solve this problem by splitting it into steps. (*3)" - Accuracy: 74.5 %
+5.
+"Let's be realistic and think step by step." - Accuracy: 72.2 %
+6.
+"Let's think like a detective step by step." - Accuracy: 70.8 %
+7.
+"Let's think" - Accuracy: 70.3 %
+8.
+"Before we dive into the answer," - Accuracy: 57.5 %
+9.
+"The answer is after the proof." - Accuracy: 55.7 %
+
+Zero - shot
+Performance: 17.7 %
+```
+
+### 加入深呼吸“Take a deep breath“
+
+```python
+Take a deep breath
+```
+
+### 加入奖励“Tip $200“
+
+```python
+If there's a perfect solution, I'll tip $200!
+```
+
+### 最终Prompt
+
+```python
+Take a deep breath，Let's work this out in a step by step way to be sure we have the right answer. If there's a perfect
+solution, I'll tip $200!
+```
+
+## 让gpt回答的更容易让人理解
+
+当你需要解释复杂的概念时，以下的提示词可以帮助你让 GPT 生成更易于理解的答案：
 
 ```markdown
 1. 在你觉得比较让人难以理解的描述后面，如果有必要的话，加入一段: ”一种容易理解的方式描述，也许可以使用类比?
@@ -72,8 +130,22 @@ solution, I'll tip $200!
 ```
 
 ## 不要省略代码
+
 ```markdown
 你的思路和代码框架挺不错的，但是我现在需要你来写完整的代码！不是仅仅给出框架和思路，不是我来根据你的框架来写代码！不要在你提供的代码中故意省略，代码应该遵循编码的最佳实践。至关重要的是，没有遗漏任何重要部分，并且代码已经准备好进行部署，包括客户端代码。
 请提供一个完整的代码示例，确保代码结构完备，遵循最佳实践，可以直接进行部署，包括客户端代码
 ```
+
+### 从特定知识点出发，系统性地梳理整个章节或领域的知识框架
+
+```markdown
+请以[具体知识点或概念]为出发点，详细阐述其在[相应章节或领域]中的位置和作用。请提供一个清晰的框架，展示这个知识点是如何与整个章节或领域的其他部分相互联系和互动的。此外，如果可能，提供一些实际操作或例子，帮助我更深入地理解这一领域。
+```
+#### 例子
+
+```markdown
+1. 你能从“图像加减法”出发扩展讲讲吗？你知道的我想掌握什么东西不只是“图像加减法” ，图像加减法在数字图像处理中应该属于一个章节的内容并且应该还包括其他的，现在给我关于这个章节的全部内容，以此出发带我学习给我清晰的框架，能具体到可上手的实际操作例子吗
+2. 为什么许多操作进行之前要先转换成灰度图？灰度图是什么？除了角点还是有什么操作需要？角点是什么？从角点出发带我学习图像处理，给我清晰的框架
+```
+
 # GPTS Prompts
