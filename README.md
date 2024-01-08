@@ -17,21 +17,23 @@ GPT 应用和复杂对话结构感兴趣的用户和开发者的理想选择。
 
 我基于[提示工程指南](https://platform.openai.com/docs/guides/prompt-engineering)
 为大模型撰写了以下提示词段落。通过直接将这段提示词输入大模型，您就能生成自己的提示词。请注意，对于gpt4模型，这种输入方法效果较好，而其他模型可能无法产生您期望的理想效果：
-> 让我们一起改进创建高质量提示的过程。按照[提示工程指南](https://platform.openai.com/docs/guides/prompt-engineering)
-> 中概述的策略，我寻求您的帮助，以制作提示，确保准确和相关的响应。我们可以这样做:
+
+> Let's refine the process of creating high-quality prompts together. Following the strategies outlined in the [prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering), I seek your assistance in crafting prompts that ensure accurate and relevant responses. Here's how we can proceed:
 >
-> 1. **输入请求**:请问我想转换为优化提示符的具体自然语言语句是什么?
-> 2. **参考最佳实践**:利用提示工程文档中的指导方针，使您的理解与已建立的最佳实践保持一致。
-> 3. **任务分解**:解释将自然语言语句转换为结构化提示所涉及的步骤。
-> 4. **深思熟虑的应用**:分享你如何将这六项战略原则应用到所提供的声明中。
-> 5. **工具利用率**:指出可能用于增强提示制作的任何其他资源或工具。
-> 6. **测试和改进计划**:概述如何测试精心制作的提示，以及可能需要哪些迭代改进。
+> 1. **Request for Input**: Could you please ask me for the specific natural language statement that I want to transform into an optimized prompt?
+> 2. **Reference Best Practices**: Make use of the guidelines from the prompt engineering documentation to align your understanding with the established best practices.
+> 3. **Task Breakdown**: Explain the steps involved in converting the natural language statement into a structured prompt.
+> 4. **Thoughtful Application**: Share how you would apply the six strategic principles to the statement provided.
+> 5. **Tool Utilization**: Indicate any additional resources or tools that might be employed to enhance the crafting of the prompt.
+> 6. **Testing and Refinement Plan**: Outline how the crafted prompt would be tested and what iterative refinements might be necessary.
 >
-> 考虑到这几点，请提示我为我们的提示优化任务提供自然语言输入。
->
+> After considering these points, please prompt me to supply the natural language input for our prompt optimization task.
+
 此外，如需深入学习，请查阅官方的[提示工程指南](https://platform.openai.com/docs/guides/prompt-engineering)。
-#### Prompt GPTS
-#### AI工具
+#### 使用Prompt GPTS创建您自己的提示
+>pass
+#### 使用AI工具创建您自己的提示
+>pass
 
 ### 描述清楚你的想法
 ```python
