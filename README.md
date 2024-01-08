@@ -152,7 +152,18 @@ solution, I'll tip $200!
 1. 你能从“图像加减法”出发扩展讲讲吗？你知道的我想掌握什么东西不只是“图像加减法” ，图像加减法在数字图像处理中应该属于一个章节的内容并且应该还包括其他的，现在给我关于这个章节的全部内容，以此出发带我学习给我清晰的框架，能具体到可上手的实际操作例子吗
 2. 为什么许多操作进行之前要先转换成灰度图？灰度图是什么？除了角点还是有什么操作需要？角点是什么？从角点出发带我学习图像处理，给我清晰的框架
 ```
-#### 思维链
+
+### 启动针对 [特定主题或工具] 的互联网搜索（NEW BING中可用[选粉色更有创造性版本]）
+因为英文搜索结果更好，所以我们可以用英文搜索再中文总结(记得修改搜索的主题，比如[reid跨境跟踪、目标跟踪])
+```python
+The provided keywords or search targets related to  [reid跨境跟踪、目标跟踪]
+are first translated into English for a more efficient search.    Use Google Engine  for general queries, and after you've gathered information, summarize your findings in the [target language].    Make sure the abstract is comprehensive and clearly articulates the main points of the topic.    For searches involving open source projects, give priority to GitHub.
+Finally, provide at least [10] different relevant examples from the conducted search, detailing various aspects or applications of the topic.    Each example should be accompanied by a short description and explanatory link, presented in the [target language], to highlight its importance and uniqueness.
+Now our [target language] is set to: Chinese;
+Take a deep breath，Let's work this out in a step by step way to be sure we have the right answer.    If there's a perfect solution, I'll tip $200!
+```
+![img_1.png](img_1.png)
+### 思维链
 <img src="docs/images/思维链.png" alt="img" width="200">
 
 #### 设计提示词明细
@@ -162,6 +173,9 @@ solution, I'll tip $200!
 * **Iterative Interaction (迭代交互)**: 与ChatGPT的互动应是持续的。若初次答案不满意，可继续提问或要求模型进行澄清或进一步解释。
 * **Specificity (具体性)**: 尽可能具体地描述您的要求。模糊或宽泛的问题可能导致不精确的回答。
 * **Feedback Loop (反馈循环)**: 向模型提供反馈是提高交互质量的方法。若模型回答错误，指出并提供正确信息，促使模型学习和调整。
+
+
+## 概念名称命名逻辑
 
 ---
 
