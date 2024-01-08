@@ -58,7 +58,7 @@ ChatBox 等软件/插件使用，极大降低接口使用成本：
 ### 使用沉浸式翻译
 由于ChatGPT的英文语料训练效果优于中文语料，为了获取更高质量的回答，建议使用沉浸式翻译将中文提示词转为英文输入
 在沉浸式翻译中设置快捷键，可以将对话框内的中文快速转为英文提示词。
-![img.png](img.png)
+![img.png](docs/images/img12.png)
 ---
 # Prompts
 
@@ -162,7 +162,7 @@ Finally, provide at least [10] different relevant examples from the conducted se
 Now our [target language] is set to: Chinese;
 Take a deep breath，Let's work this out in a step by step way to be sure we have the right answer.    If there's a perfect solution, I'll tip $200!
 ```
-![img_1.png](img_1.png)
+![img_1.png](docs/images/img_1.png)
 ### 思维链
 <img src="docs/images/思维链.png" alt="img" width="200">
 
