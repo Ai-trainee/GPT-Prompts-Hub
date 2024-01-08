@@ -14,6 +14,7 @@ GPT 应用和复杂对话结构感兴趣的用户和开发者的理想选择。
 - [创建您自己的提示的方法](#创建您自己的提示的方法)
 - [推荐软件](#推荐软件)
 - [Prompts](#Prompts)
+- [防盗prompts](#防盗prompts)
 - [贡献指南](#贡献指南)
 - [许可证](#许可证)
 
@@ -37,10 +38,10 @@ GPT 应用和复杂对话结构感兴趣的用户和开发者的理想选择。
 >
 > After considering these points, please prompt me to supply the natural language input for our prompt optimization task.
 
-
+此外，如需深入学习，请查阅官方的[提示工程指南](https://platform.openai.com/docs/guides/prompt-engineering)。
 </details>
 
-此外，如需深入学习，请查阅官方的[提示工程指南](https://platform.openai.com/docs/guides/prompt-engineering)。
+
 ###  **使用Prompt GPTS创建您自己的提示**
 >pass
 ###  **使用AI工具创建您自己的提示**
@@ -71,7 +72,7 @@ ChatBox 等软件/插件使用，极大降低接口使用成本：
 在沉浸式翻译中设置快捷键，可以将对话框内的中文快速转为英文提示词。
 <img src="docs/images/img12.png" alt="img" width="400">
 ---
-## Prompts
+## 正片·提示词·Prompts
 
 ### Custom instructions
 
