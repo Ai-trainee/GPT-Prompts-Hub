@@ -8,7 +8,7 @@
 此外，我们还致力于构建程序化的 GPT 提示词，使其更适合高级应用和自动化程序构建。这种独特的定位使我们的项目成为那些对于高级
 GPT 应用和复杂对话结构感兴趣的用户和开发者的理想选择。
 
-**[在GitHub上查看](https://github.com/Ai-trainee/GPT-Prompts-Hub)**
+**[注意：我本地电脑中存储了大量提示词，由于数量众多需要整理。该项目将每天进行频繁更新，旨在帮助您系统学习大型模型的提示词。近期，我们将重点关注GPTS Store的发布](https://github.com/Ai-trainee/GPT-Prompts-Hub)**
 
 ## 目录
 - [创建您自己的提示的方法](#创建您自己的提示的方法)
@@ -24,8 +24,6 @@ GPT 应用和复杂对话结构感兴趣的用户和开发者的理想选择。
 
 我基于[提示工程指南](https://platform.openai.com/docs/guides/prompt-engineering)
 为大模型撰写了以下提示词段落。通过直接将这段提示词输入大模型，您就能生成自己的提示词。请注意，对于gpt4模型，这种输入方法效果较好，而其他模型可能无法产生您期望的理想效果：
-<details>
-  <summary>点击查看详细信息</summary>
 
 > Let's refine the process of creating high-quality prompts together. Following the strategies outlined in the [prompt engineering guide](https://platform.openai.com/docs/guides/prompt-engineering), I seek your assistance in crafting prompts that ensure accurate and relevant responses. Here's how we can proceed:
 >
@@ -39,7 +37,7 @@ GPT 应用和复杂对话结构感兴趣的用户和开发者的理想选择。
 > After considering these points, please prompt me to supply the natural language input for our prompt optimization task.
 
 此外，如需深入学习，请查阅官方的[提示工程指南](https://platform.openai.com/docs/guides/prompt-engineering)。
-</details>
+
 
 
 ###  **使用Prompt GPTS创建您自己的提示**
@@ -174,7 +172,8 @@ Finally, provide at least [10] different relevant examples from the conducted se
 Now our [target language] is set to: Chinese;
 Take a deep breath，Let's work this out in a step by step way to be sure we have the right answer.    If there's a perfect solution, I'll tip $200!
 ```
-![img_1.png](docs/images/img_1.png)
+<img src="docs/images/img_1.png" alt="img" width="1200">
+
 ### 思维链
 <img src="docs/images/思维链.png" alt="img" width="200">
 
