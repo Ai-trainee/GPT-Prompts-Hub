@@ -1,4 +1,38 @@
-[🌟 GPT Prompts Hub 🌟](https://github.com/your-repository-link-here)
+<h1 align="center">
+  <a href="https://github.com/your-repository-link-here">🌟 GPT Prompts Hub 🌟</a>
+</h1>
+
+<p align="center">
+  <a href="README.md">English</a> |
+  <a href="data/doc/README_cn.md">简体中文</a> |
+  <a href="data/doc/README_Parameter adjustment.md">训练策略</a>
+</p>
+
+<!-- 这里可以添加样式或者在样式表中定义类 -->
+<style>
+  body {
+    background-color: #f4f4f4; /* 背景使用柔和的灰色 */
+    color: #333; /* 文本使用深灰色 */
+  }
+
+  h1 a {
+    text-decoration: none;
+    color: #2c3e50; /* 标题使用深蓝色 */
+  }
+
+  p a {
+    text-decoration: none;
+    color: #3498db; /* 链接使用亮蓝色 */
+    margin: 0 10px;
+  }
+
+  p a:hover {
+    text-decoration: underline;
+    color: #2980b9; /* 悬停时的颜色是更深的蓝色 */
+  }
+</style>
+
+
 ---
 
 欢迎来到 "GPT Prompts Hub" 存储库！探索并分享高质量的 ChatGPT 提示词。培养创新性内容，提升对话体验，激发创造力。我们极力鼓励贡献独特的提示词。
