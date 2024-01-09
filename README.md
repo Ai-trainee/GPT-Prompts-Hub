@@ -10,25 +10,19 @@
 
 <!-- 这里可以添加样式或者在样式表中定义类 -->
 <style>
-  body {
-    background-color: #f4f4f4; /* 背景使用柔和的灰色 */
-    color: #333; /* 文本使用深灰色 */
-  }
-
   h1 a {
-    text-decoration: none;
-    color: #2c3e50; /* 标题使用深蓝色 */
+    text-decoration: none; /* 去掉下划线 */
+    color: #ff5370; /* 设置颜色 */
+    /* 还可以添加其他样式，如字体大小、字体族等 */
   }
-
   p a {
     text-decoration: none;
-    color: #3498db; /* 链接使用亮蓝色 */
-    margin: 0 10px;
+    color: #007bff;
+    margin: 0 10px; /* 添加左右间距 */
   }
-
   p a:hover {
-    text-decoration: underline;
-    color: #2980b9; /* 悬停时的颜色是更深的蓝色 */
+    text-decoration: underline; /* 鼠标悬停时添加下划线 */
+    color: #0056b3; /* 鼠标悬停时改变颜色 */
   }
 </style>
 
