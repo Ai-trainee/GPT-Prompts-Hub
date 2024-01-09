@@ -4,27 +4,11 @@
 
 <p align="center">
   <a href="README.md">English</a> |
-  <a href="data/doc/README_cn.md">简体中文</a> |
-  <a href="data/doc/README_Parameter adjustment.md">训练策略</a>
+  <a href="docs/languages/README_cn.md">简体中文</a>
+<p align="center"> 
+  <a href="Security Prompt.md">Security Prompts</a> |
+    <a href="GPTS Prompts.md">GPTS Prompts</a>
 </p>
-
-<!-- 这里可以添加样式或者在样式表中定义类 -->
-<style>
-  h1 a {
-    text-decoration: none; /* 去掉下划线 */
-    color: #8972d0; /* 设置颜色 */
-    /* 还可以添加其他样式，如字体大小、字体族等 */
-  }
-  p a {
-    text-decoration: none;
-    color: #ebc5dc;
-    margin: 0 10px; /* 添加左右间距 */
-  }
-  p a:hover {
-    text-decoration: underline; /* 鼠标悬停时添加下划线 */
-    color: #b6d7d3; /* 鼠标悬停时改变颜色 */
-  }
-</style>
 
 <img src="docs/images/Engage with GPT Prompts (1).png" alt="img" width="650">
 欢迎来到 "GPT Prompts Hub" 存储库！探索并分享高质量的 ChatGPT 提示词。培养创新性内容，提升对话体验，激发创造力。我们极力鼓励贡献独特的提示词。
