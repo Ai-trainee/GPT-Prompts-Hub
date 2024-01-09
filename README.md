@@ -5,19 +5,20 @@
 <p align="center">
   <a href="README.md">English</a> |
   <a href="docs/languages/README_cn.md">简体中文</a>
+</p>
+
 <p align="center"> 
   <a href="Security Prompt.md">Security Prompts</a> |
-    <a href="GPTS Prompts.md">GPTS Prompts</a>
+  <a href="GPTS Prompts.md">GPTS Prompts</a>
 </p>
 
 ![Engage with GPT Prompts (1).png](docs%2Fimages%2FEngage%20with%20GPT%20Prompts%20%281%29.png)
-欢迎来到 "GPT Prompts Hub" 存储库！探索并分享高质量的 ChatGPT 提示词。培养创新性内容，提升对话体验，激发创造力。我们极力鼓励贡献独特的提示词。
 
-在 "GPT Prompts Hub" 项目中，我们的核心关注点是优化每一轮对话的提示词，尤其是高阶提示词和思维链的开发。我们的目标是远离传统的角色扮演模式，转而专注于深化对话质量和探索更复杂的对话结构。
+欢迎来到 "GPT Prompts Hub" 存储库！🌟 探索并分享高质量的 ChatGPT 提示词。培养创新性内容，提升对话体验，激发创造力。我们极力鼓励贡献独特的提示词. 😊
 
-此外，我们还致力于构建程序化的 GPT 提示词，使其更适合高级应用和自动化程序构建。这种独特的定位使我们的项目成为那些对于高级
-GPT 应用和复杂对话结构感兴趣的用户和开发者的理想选择。
+在 "GPT Prompts Hub" 项目中，我们的核心关注点是优化每一轮对话的提示词，尤其是高阶提示词和思维链的开发. 🚀 我们的目标是远离传统的角色扮演模式，转而专注于深化对话质量和探索更复杂的对话结构.
 
+此外，我们还致力于构建程序化的 GPT 提示词，使其更适合高级应用和自动化程序构建. 🛠️ 这种独特的定位使我们的项目成为那些对于高级 GPT 应用和复杂对话结构感兴趣的用户和开发者的理想选择. 🌐
 
 
 **[注意：我们记录了许多提示词的最佳实践。由于数量较多需要整理。该项目将每天进行频繁更新，旨在帮助您系统学习大型模型的提示词。近期，我们将重点关注GPTS Store的发布](https://github.com/Ai-trainee/GPT-Prompts-Hub)**
