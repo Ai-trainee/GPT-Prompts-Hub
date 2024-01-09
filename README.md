@@ -138,7 +138,7 @@ solution, I'll tip $200!
 ### 不要省略代码
 
 ```markdown
-1. 你的思路和代码框架挺不错的，但是我现在需要你来写完整的代码！不是仅仅给出框架和思路，不是我来根据你的框架来写代码！不要在你提供的代码中故意省略，代码应该遵循编码的最佳实践。至关重要的是，没有遗漏任何重要部分，并且代码已经准备好进行部署，包括客户端代码。
+1. 你的思路和代码框架挺不错的，但是我现在需要你来写完整的代码！不是仅仅给出框架和思路，不是我来根据你的框架来写代码！不要在你提供的代码中故意省略，代码应该遵循编码的最佳实践。至关重要的是，没有遗漏任何重要部分，并且代码已经准备好进行部署.
 2. 我很欣赏您提供的初步框架和想法。但是，我现在需要一个详细的、完整的代码实现。请确保代码功能齐全，并包含初始框架的所有方面。代码应该遵循编码的最佳实践。至关重要的是，没有遗漏任何重要部分，并且代码已经准备好进行部署。
 ```
 
@@ -148,7 +148,7 @@ solution, I'll tip $200!
 请以[具体知识点或概念]为出发点，详细阐述其在[相应章节或领域]中的位置和作用。
 请提供一个清晰的框架，展示这个知识点是如何与整个章节或领域的其他部分相互联系和互动的。此外，如果可能，提供一些实际操作或例子，帮助我更深入地理解这一领域。
 ```
-#### 例子
+_例子_
 
 ```markdown
 1. 你能从“图像加减法”出发扩展讲讲吗？你知道的我想掌握什么东西不只是“图像加减法” ，图像加减法在数字图像处理中应该属于一个章节的内容并且应该还包括其他的，现在给我关于这个章节的全部内容，以此出发带我学习给我清晰的框架，能具体到可上手的实际操作例子吗
@@ -156,7 +156,7 @@ solution, I'll tip $200!
 ```
 
 ### 启动针对 [特定主题或工具] 的互联网搜索（NEW BING中可用[选粉色更有创造性版本]）
-因为英文搜索结果更好，所以我们可以用英文搜索再中文总结(记得修改搜索的主题，比如[reid跨境跟踪、目标跟踪])
+因为英文搜索结果更好，所以我们可以用英文搜索再中文总结 ( 记得修改搜索的主题，比如[reid跨境跟踪、目标跟踪] )
 ```python
 The provided keywords or search targets related to  [reid跨境跟踪、目标跟踪]
 are first translated into English for a more efficient search.    Use Google Engine  for general queries, and after you've gathered information, summarize your findings in the [target language].    Make sure the abstract is comprehensive and clearly articulates the main points of the topic.    For searches involving open source projects, give priority to GitHub.
