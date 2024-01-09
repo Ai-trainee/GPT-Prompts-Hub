@@ -10,31 +10,75 @@
 
 <!-- 这里可以添加样式或者在样式表中定义类 -->
 <style>
+  /* 页面背景色 */
+  body {
+    background-color: #f8f9fa; /* 浅灰色背景，减少眼睛疲劳 */
+    color: #212529; /* 基础文本颜色为深灰色，确保阅读清晰 */
+    font-family: Arial, sans-serif; /* 设定默认字体为Arial，无衬线 */
+  }
+
+  /* 主标题样式 */
   h1 a {
-    text-decoration: none; /* 去掉下划线 */
-    color: #ff5370; /* 设置颜色 */
-    /* 还可以添加其他样式，如字体大小、字体族等 */
+    text-decoration: none; /* 移除下划线 */
+    color: #8972d0; /* 淡紫色标题，看起来专业且有吸引力 */
+    font-size: 2em; /* 增大标题字体大小 */
+    /* 可以添加更多标题样式，如字体族、粗细等 */
   }
+
+  /* 段落中链接样式 */
   p a {
-    text-decoration: none;
-    color: #007bff;
-    margin: 0 10px; /* 添加左右间距 */
+    text-decoration: none; /* 移除下划线 */
+    color: #ebc5dc; /* 淡粉红色链接，温柔且友好 */
+    margin: 0 10px; /* 左右增加间距 */
   }
+
+  /* 段落中链接悬停样式 */
   p a:hover {
-    text-decoration: underline; /* 鼠标悬停时添加下划线 */
-    color: #0056b3; /* 鼠标悬停时改变颜色 */
+    text-decoration: underline; /* 悬停时增加下划线 */
+    color: #0056b3; /* 悬停时转变为深蓝色，提供视觉反馈 */
   }
+
+  /* 列表项样式 */
+  li {
+    color: #495057; /* 暗灰色列表项，提供适度对比 */
+  }
+
+  /* 强调文本样式 */
+  strong {
+    color: #000; /* 黑色强调文本，突出重点 */
+  }
+
+  /* 引用块样式 */
+  blockquote {
+    background-color: #e9ecef; /* 浅灰色背景，区分引用 */
+    border-left: 4px solid #adb5bd; /* 左边界增加深灰色条，标示引用 */
+    padding: 10px; /* 增加内边距 */
+    margin: 10px 0; /* 增加上下外边距 */
+    color: #495057; /* 引用文本颜色与列表项相同 */
+  }
+
+  /* 代码块样式 */
+  code {
+    background-color: #e9ecef; /* 为代码块添加浅灰色背景 */
+    border-radius: 4px; /* 圆角边框 */
+    padding: 3px; /* 增加内边距 */
+    font-family: 'Courier New', monospace; /* 使用等宽字体 */
+  }
+
+  /* 附加样式：可根据需要增减 */
+  /* ... */
 </style>
 
 
----
-
+<img src="docs/images/Engage with GPT Prompts (1).png" alt="img" width="650">
 欢迎来到 "GPT Prompts Hub" 存储库！探索并分享高质量的 ChatGPT 提示词。培养创新性内容，提升对话体验，激发创造力。我们极力鼓励贡献独特的提示词。
 
 在 "GPT Prompts Hub" 项目中，我们的核心关注点是优化每一轮对话的提示词，尤其是高阶提示词和思维链的开发。我们的目标是远离传统的角色扮演模式，转而专注于深化对话质量和探索更复杂的对话结构。
 
 此外，我们还致力于构建程序化的 GPT 提示词，使其更适合高级应用和自动化程序构建。这种独特的定位使我们的项目成为那些对于高级
 GPT 应用和复杂对话结构感兴趣的用户和开发者的理想选择。
+
+
 
 **[注意：我们记录了许多提示词的最佳实践。由于数量较多需要整理。该项目将每天进行频繁更新，旨在帮助您系统学习大型模型的提示词。近期，我们将重点关注GPTS Store的发布](https://github.com/Ai-trainee/GPT-Prompts-Hub)**
 
