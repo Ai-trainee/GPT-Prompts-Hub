@@ -12,8 +12,7 @@
   <a href="GPTS Prompts.md">GPTS Prompts</a>
 </p>
 
-![Engage with GPT Prompts (1).png](docs%2Fimages%2FEngage%20with%20GPT%20Prompts%20%281%29.png)
-
+![Design 2.png](..%2Fimages%2FDesign%202.png)
 欢迎来到 "GPT Prompts Hub" 存储库！🌟 探索并分享高质量的 ChatGPT 提示词。培养创新性内容，提升对话体验，激发创造力。我们极力鼓励贡献独特的提示词. 😊
 
 在 "GPT Prompts Hub" 项目中，我们的核心关注点是优化每一轮对话的提示词，尤其是高阶提示词和思维链的开发. 🚀 我们的目标是远离传统的角色扮演模式，转而专注于深化对话质量和探索更复杂的对话结构.
