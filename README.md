@@ -12,7 +12,7 @@
   <a href="GPTS Prompts.md">GPTS Prompts</a>
 </p>
 
-![Engage with GPT Prompts (1).png](docs/images/Design 2.png)
+![Design 2.png](docs%2Fimages%2FDesign%202.png)
 
 Welcome to the "GPT Prompts Hub" repository! 🌟 Explore and share high-quality ChatGPT prompts. Cultivate innovative content, enhance the dialogue experience, and stimulate creativity. We strongly encourage contributions of unique Prompts. 😊 In the GPT Prompts Hub project, our core focus is to optimize prompts for each round of conversation, especially the development of higher-order prompts and chains of thought. 🚀 Our goal is to move away from the traditional role play model. Instead, we focused on deepening dialogue quality and exploring more complex dialogue structures. To make it more suitable for application and advanced automation program builds. 🛠 ️ this unique positioning which makes our project for advanced GPT application dialogue with complex structure are of interest to the ideal choice for users and developers. 🌐
 
