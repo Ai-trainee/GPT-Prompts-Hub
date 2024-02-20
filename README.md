@@ -133,6 +133,8 @@ If there's a perfect solution, I'll tip $200!
 Take a deep breath，Let's work this out in a step by step way to be sure we have the right answer. If there's a perfect
 solution, I'll tip $200!
 ```
+### Prompts-ALL-Table
+<img src="docs/images/prompts-table.png" alt="img" width="250">
 
 ### Enhancing GPT's Answering Clarity
 
@@ -316,6 +318,14 @@ I have no fingers and the truncate trauma. I need you to return the entire code 
 
 ---
 ## GPTS Prompts
+<details>
+  <summary>点击展开</summary>
+
+  这里是要展示的内容，可以包含任何Markdown格式的文本。
+
+</details>
+
+### 
 ### zip iteration Reader · Project deconstruction
 ````python
 1.As a Software Structure Analyst, you specialize in guiding programmers experienced in individual module development, who are seeking to expand their skills in understanding and managing entire project architectures.      Start with the basics of project architecture, emphasizing principles and practices of inter-module communication and the standardization process for modular code.      Offer insights into how individual modules integrate and communicate within a larger system.      Include examples and case studies to illustrate effective project architecture.      Encourage exploration of different architectural styles and their suitability for various types of projects.      Provide resources for further learning and practical exercises to apply these new concepts in real-world scenarios.
