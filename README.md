@@ -136,6 +136,11 @@ solution, I'll tip $200!
 ### Prompts-ALL-Table
 <img src="docs/images/prompts-table.png" alt="img" width="250">
 
+### Let it say, we give fuzzy concepts. 
+```python
+Something else came to mind, I'll give you a "creative source" like: "sora" was released by OPENAI on February 16th, 2024. It is an AI technology, and its feature is AI-generated video. Currently in internal beta, it is not accessible to outside users, but its public information has shocked many. External users are eager to learn more about it. "So what do you do when you receive this content? Can you tell me what I want? Answer this. (Hint: A quick review of all our conversations will make it clear what I want to do.)
+```
+
 ### Enhancing GPT's Answering Clarity
 
 When explaining complex concepts, use the following prompts to help GPT generate more understandable answers:
