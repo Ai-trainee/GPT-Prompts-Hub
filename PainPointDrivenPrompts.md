@@ -95,7 +95,7 @@
 ### GPTS
 ![img_211.png](docs%2Fimages%2Fimg_211.png)
 ### `实际操作例子`
-![ChatGPT-Browser-Pro (1).png](docs%2Fimages%2FChatGPT-Browser-Pro%20%281%29.png)
+![7775.png](docs%2Fimages%2F7775.png)
 ### 最后我们讲一讲，什么叫做速写（SEO文章）！
 ### 痛点
 
