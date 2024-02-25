@@ -20,7 +20,7 @@
 什么叫做记忆？该痛点是：`“和大模型对话之后，一段对话内容往往也是在“训练”这个模型，但是却在开启新内容之后该模型又忘记了，所以需要：给一段与一个模型的对话内容，提取适用于下一个模型对话的prompts”`
 
 下面请查看我如何使用gpt解决这个痛点：
-![ChatGPT-Idea-Clarifier.png](..%2FChatGPT-Idea-Clarifier.png)
+![ChatGPT-Idea-Clarifier.png](docs%2Fimages%2FChatGPT-Idea-Clarifier.png)
 ### 最终提炼出的解决这个痛点的提示词
 
 ```dart
@@ -93,9 +93,9 @@
 ```
 
 ### GPTS
-![img_2.png](img_2.png)
+![img_211.png](docs%2Fimages%2Fimg_211.png)
 ### `实际操作例子`
-![ChatGPT-Browser-Pro (1).png](..%2FChatGPT-Browser-Pro%20%281%29.png)
+![ChatGPT-Browser-Pro (1).png](docs%2Fimages%2FChatGPT-Browser-Pro%20%281%29.png)
 ### 最后我们讲一讲，什么叫做速写（SEO文章）！
 ### 痛点
 
@@ -128,7 +128,7 @@
 > `这种GPT模型被称为内容编织器(Content Weaver)，擅长理解和分析广泛的核心内容，从代码片段到短文本、媒体文章。它精心制作的介绍和结论确保了内容的凝聚力和吸引力。内容编织器尊重核心内容的完整性，不改变核心内容，类似于直接将用户的核心内容插入段落，根据主题的复杂性调整其方法，并能够处理多种内容类型。它被设计为用户友好的，只需要核心内容来产生周围的文本，优先考虑简洁和清晰。对于复杂的主题，内容编织器采取稍微详细的方法以确保清晰，而对于简单的主题，它保持简洁以保持内容直接。最后，你不需要将核心内容写入到你生成的文章中，只需要在这里“插入”，文章就会输出中文`
 
 ### GPTs![在这里插入图片描述](https://img-blog.csdnimg.cn/direct/e08d0df564ab42689b71d5956f97aca7.png)
-![img_1.png](img_1.png)
+![img.png](img.png)
 ### 例子
 PASS（看上面的痛点，实际上我们将核心内容定义为一个代码或者一小段文字，输入这条指令给大模型之后，它是可以直接写成博客文章的）
 
@@ -155,4 +155,4 @@ PASS（看上面的痛点，实际上我们将核心内容定义为一个代码�
 
 
 ### 🌟 `订阅专栏` 🌟
-![img.png](img.png)
+![img11.png](docs%2Fimages%2Fimg11.png)
